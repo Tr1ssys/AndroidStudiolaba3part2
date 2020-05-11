@@ -31,17 +31,3 @@
 MyAdapter имеет 3 списка с необходимой информацие для вывода, которые он получает через конструктор. Также, внутри этого класса 
 реализованы абстрактные функции от наследуемого класса и реализован класс MyViewHolder, который унаследован от "RecyclerView.ViewHolder".
 Этот "подкласс" связывается с ".xml" файлом и хранит на них ссылки.
-
-Скриншоты из программы:
-
-Первое активити.
-
-![Первое активити](https://github.com/BadKrog/Laba_three_part1/blob/master/imagesForGit/Screenshot_2020-04-06-20-00-30-980_com.example.laba_three.jpg)
-
-База данных в начале программы.
-
-![Список в программе](https://github.com/BadKrog/Laba_three_part1/blob/master/imagesForGit/Screenshot_2020-04-06-20-00-38-246_com.example.laba_three.jpg)
-
-Добавили записи в БД.
-
-![Список в программе](https://github.com/BadKrog/Laba_three_part1/blob/master/imagesForGit/Screenshot_2020-04-06-20-00-49-272_com.example.laba_three.jpg)
